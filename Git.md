@@ -67,6 +67,12 @@ git commit -am "日志信息" （文件名）
 git commit --amend
 ```
 
+### 推送至远端
+
+```
+git push
+```
+
 ### 查看历史版本
 
 查看简略历史版本
@@ -500,7 +506,7 @@ git commit -m "update ignored files"
 
 ### 跨团队协作
 
-## GitHub操作
+## GitHub操作步骤
 
 ### 创建远程仓库
 
