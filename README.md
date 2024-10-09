@@ -4,6 +4,8 @@ Common commands for Git.
 
 Self-learned during 2024 Summer vacation.
 
+Git required in your deskstop before learning.
+
 **All in Git:**
 - Switch to the history version, if you think it's better than the present one
 
